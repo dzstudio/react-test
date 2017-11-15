@@ -1,2 +1,2 @@
 # react-test
-practict react
+practice react
